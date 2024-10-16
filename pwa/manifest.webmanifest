@@ -1,0 +1,20 @@
+{
+  "name": "MOIS-Portal-alpha",
+  "short_name": "MPortal-α",
+  "start_url": "https://scsw0.github.io/mois-portal/smartphonetest.html",
+  "display": "fullscreen",
+  "background_color": "#FF9C2B",
+  "theme_color": "#5FEBF0",
+  "icons": [
+    {
+      "src": "images/icons-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
